@@ -1,0 +1,47 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "erika-leah_logo.sticker"
+    },
+    {
+      "filename" : "erika-leah_logo-text.sticker"
+    },
+    {
+      "filename" : "erikaleahfilled.sticker"
+    },
+    {
+      "filename" : "506-horiz.sticker"
+    },
+    {
+      "filename" : "506_erika-leah.sticker"
+    },
+    {
+      "filename" : "506calling.sticker"
+    },
+    {
+      "filename" : "506callingii.sticker"
+    },
+    {
+      "filename" : "506callingiii.sticker"
+    },
+    {
+      "filename" : "506callingiv.sticker"
+    },
+    {
+      "filename" : "elface.sticker"
+    },
+    {
+      "filename" : "elstop.sticker"
+    },
+    {
+      "filename" : "elscream.sticker"
+    }
+  ]
+}
